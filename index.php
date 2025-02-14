@@ -15,6 +15,7 @@
     $y=0;
     $x = 1;
     while ($x < 11){
+        $testVariabel = 1;
         echo "<tr>";
         echo"<td>". $x . "</td>";
         echo"<td>". $x*$x . "</td>";
